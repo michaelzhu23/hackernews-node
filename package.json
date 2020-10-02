@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/michaelzhu23/hackernews-node#readme",
   "dependencies": {
+    "@prisma/client": "^2.8.0",
     "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "@prisma/cli": "^2.8.0"
   }
 }
